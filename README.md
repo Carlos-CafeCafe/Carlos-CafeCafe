@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on SAP Commerce proyects
+- 🔭 I’m currently working on SAP Commerce projects
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about Magic: the Gathering
